@@ -6,9 +6,6 @@ Welcome to the Movie Prediction project! This repository contains code and resou
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Movie Prediction project aims to leverage machine learning algorithms to predict similar movies based on their plot summaries from Wikipedia and IMDb.
