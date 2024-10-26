@@ -25,18 +25,3 @@ git clone https://github.com/yourusername/movie-prediction.git
 cd movie-prediction
 pip install -r requirements.txt
 ```
-
-## Usage
-To run the prediction model, use the following command:
-
-```bash
-python predict.py --input data/movies.csv
-```
-
-For more detailed usage instructions, refer to the [Usage Guide](docs/usage.md).
-
-## Contributing
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
